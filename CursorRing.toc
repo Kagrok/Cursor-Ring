@@ -1,0 +1,11 @@
+## Interface: 110107, 110200, 110205
+## Title: |cFF00FF00Cursor Ring|r
+## Notes: |cFFD3D3D3A |cFFFFFF00minimal, lightweight |cFF00FF00cursor ring |cFFD3D3D3that always floats around your mouse, perfect for keeping track of your mouse during hectic fights with Independent |n|cFFC41F3Bin-combat |cFFD3D3D3and |cFFC41F3Bout-of-combat |cFFD3D3D3alphas that automatically switch |n|cFF00FF00Slash Command: /cr|r
+## Author: Kagrok
+## Version: 1.06
+## SavedVariables: CursorRingDB
+## IconTexture: Interface\AddOns\CursorRing\Media\icon.tga
+
+embeds.xml
+Core.lua
+Options.lua
